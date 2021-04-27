@@ -26,11 +26,6 @@
 ├── tsconfig.json                  // TypeScript 配置文件
 ├── vite.config.ts                 // Vite 配置文件
 └── package.json
-
-作者：XPoet
-链接：https://juejin.cn/post/6951649464637636622
-来源：掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ```
 
 
