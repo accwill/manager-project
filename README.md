@@ -18,12 +18,15 @@
     ├── store/                     // 状态管理目录
     ├── style/                     // 通用 CSS 目录
     ├── utils/                     // 工具函数目录
-    ├── views/                     // 页面组件目录
+    ├── pages/                     // 页面组件目录
     ├── App.vue
     ├── main.ts
     ├── shims-vue.d.ts
-├── tests/                         // 单元测试目录
 ├── index.html
+├── commitlint.config.js           // git提交校验配置文件
+├── .eslintrc.js                   // eslint配置文件
+├── .gitignore                     // git过滤文件配置
+├── .editorconfig                  // editor配置
 ├── tsconfig.json                  // TypeScript 配置文件
 ├── vite.config.ts                 // Vite 配置文件
 └── package.json
