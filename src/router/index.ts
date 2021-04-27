@@ -16,7 +16,7 @@ const routes: Array<RouteRecordRaw> = [
   {
     path: '/axios',
     name: 'Axios',
-    component: () => import('@/pages/axios.vue') // 懒加载组件
+    component: () => import('@/pages/Axios.vue') // 懒加载组件
   }
 ]
 

@@ -6,7 +6,6 @@ on:
 
 jobs:
   deploy:
-    name: 步数开始h
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
