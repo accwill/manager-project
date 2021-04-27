@@ -1,6 +1,6 @@
 import { createRouter, createWebHashHistory, RouteRecordRaw } from 'vue-router'
-import Home from '@/pages/home.vue'
-import Vuex from '@/pages/vuex.vue'
+import Home from '@/pages/Home.vue'
+import Vuex from '@/pages/Vuex.vue'
 
 const routes: Array<RouteRecordRaw> = [
   {
